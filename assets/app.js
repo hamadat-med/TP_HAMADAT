@@ -7,4 +7,8 @@ import './bootstrap.js';
  */
 import './styles/app.css';
 
+import './styles/app.scss';
+
+import { Tooltip, Toast, Popoverover } from 'bootstrap';
+
 console.log('This log comes from assets/app.js - welcome to AssetMapper! 🎉');
