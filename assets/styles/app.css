@@ -2,6 +2,7 @@
 
 body {
   margin:0;
+
 }
 
 h1 {
@@ -285,7 +286,9 @@ p {
   margin-right: auto;
   background-color: #c8eaf6;
   text-align: center;
-  
+  border-radius: 30%;
+  background-color: #cee7f7;
+  border: solid blue;
 }
 
 .card-text{
@@ -298,12 +301,8 @@ p {
 
 
 
-
-
-
-
 .act{
   text-align: center;
   color: #26272b;
-  background-color: #e8f1f7;
+  background-color: #f0f4f7;
 }
